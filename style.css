@@ -224,8 +224,13 @@ footer a:hover {
     width: 100%;
   }
 
+
   .shirt-img {
     width: 300px;
+  }
+
+  .arthur {
+    width: 200px!important;
   }
 
   .size {
