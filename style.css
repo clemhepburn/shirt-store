@@ -74,6 +74,10 @@ header b {
   width: 500px;
 }
 
+.arthur {
+  width: 400px;
+}
+
 .size {
   font-weight: bold;
 }
@@ -230,7 +234,7 @@ footer a:hover {
   }
 
   .arthur {
-    width: 200px!important;
+    width: 200px;
   }
 
   .size {
