@@ -28,6 +28,10 @@ header b, .header b {
   width: 600px;
 }
 
+.strikethrough {
+  text-decoration: line-through;
+}
+
 .main-section {
   display: flex;
   flex-direction: row;
